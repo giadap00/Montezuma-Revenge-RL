@@ -74,12 +74,6 @@ In *Montezuma's Revenge*, the agent must navigate a complex multi-room fortress,
 ├── plot_graphics.ipynb     # Jupyter notebook for metrics visualization
 ├── RL_FinalProject.pdf     # Presentation slides with theoretical details and results
 ├── requirements.txt        # Python package dependencies
-├── results/                # Evaluation metric arrays (.npy)
-│   ├── rewards.npy
-│   ├── intrinsic_rewards.npy
-│   ├── extrinsic_rewards.npy
-│   ├── a2c_loss.npy
-│   └── icm_loss.npy
 └── README.md               # Project documentation
 ```
 
