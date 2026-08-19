@@ -1,0 +1,13 @@
+gymnasium[atari]>=1.0.0
+gymnasium[other]>=1.0.0
+torch>=1.9.0
+opencv-python>=4.5.3
+numpy>=2.0.2
+tqdm>=4.62.0
+matplotlib>=3.4.3
+shimmy>=0.2.1
+ale-py>=0.10.1
+moviepy>=2.1.1
+pillow>=9.2.0,<11.0.0
+objgraph>=3.6.2
+tensorboard>=2.6.0
