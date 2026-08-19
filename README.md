@@ -47,7 +47,7 @@ In *Montezuma's Revenge*, the agent must navigate a complex multi-room fortress,
 | Hyperparameter | Dueling DQN + ICM | A2C + ICM |
 | :--- | :---: | :---: |
 | **Discount Factor ($\gamma$)** | 0.99 | 0.99 |
-| **GAE Parameter ($	au$)** | — | 1.0 |
+| **GAE Parameter ($\tau$)** | — | 1.0 |
 | **Batch Size** | 32 | — |
 | **Curiosity Learning Rate** | 0.001 | 0.001 |
 | **$\epsilon$-Greedy ($\epsilon_{start} \to \epsilon_{end}$)** | $1.0 \to 0.1$ | — |
